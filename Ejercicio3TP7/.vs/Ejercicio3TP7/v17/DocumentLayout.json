@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\ejercicio3tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|solutionrelative:ejercicio3tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\ejercicio3tp7\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|solutionrelative:ejercicio3tp7\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|d:\\7mo epet.n5 lucila\\profe cano\\trabajo practico n\u00B07 proyecto\\ejercicio3tp7\\ejercicio3tp7\\modelo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|solutionrelative:ejercicio3tp7\\modelo\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\ejercicio3tp7\\modelo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06027E-672D-43AD-A32A-A9D6BE85A598}|Ejercicio3TP7\\Ejercicio3TP7.csproj|solutionrelative:ejercicio3tp7\\modelo\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Clientes.cs",
+              "RelativeDocumentMoniker": "Ejercicio3TP7\\Modelo\\Clientes.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Clientes.cs",
+              "RelativeToolTip": "Ejercicio3TP7\\Modelo\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:44:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Ejercicio3TP7\\Modelo\\Pedidos.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Pedidos.cs",
+              "RelativeToolTip": "Ejercicio3TP7\\Modelo\\Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:52:02.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio3TP7\\Modelo\\Producto.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Modelo\\Producto.cs",
+              "RelativeToolTip": "Ejercicio3TP7\\Modelo\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:51:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3TP7\\Program.cs",
+              "ToolTip": "D:\\7mo EPET.N5 Lucila\\Profe Cano\\TRABAJO PRACTICO N\u00B07 PROYECTO\\Ejercicio3TP7\\Ejercicio3TP7\\Program.cs",
+              "RelativeToolTip": "Ejercicio3TP7\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:23:36.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

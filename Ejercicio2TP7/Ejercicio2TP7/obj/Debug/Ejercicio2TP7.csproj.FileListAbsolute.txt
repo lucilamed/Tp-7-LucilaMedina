@@ -1,0 +1,14 @@
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.exe.config
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\bin\Debug\Ejercicio2TP7.pdb
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.csproj.AssemblyReference.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.csproj.CoreCompileInputs.cache
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.exe
+D:\7mo EPET.N5 Lucila\Profe Cano\TRABAJO PRACTICO N°7 PROYECTO\Ejercicio2TP7\Ejercicio2TP7\obj\Debug\Ejercicio2TP7.pdb
